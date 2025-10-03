@@ -10636,14 +10636,18 @@ body.boxed-wrapper .main-slider__one-item__shape-1 {
     }
     
     .ogency-btn {
-        color: #000;
+        color: #fff;
         font-size: 14px;
         font-weight: 600;
         font-family: var(--ogency-font);
         padding: 10px 10px 10px;
-        margin-left: 15px;
+        /* margin-left: 15px; */
         /* display: none; */
     }
+
+	.pr-btnn{
+		display: none;
+	}
     
     .hero-video{display: none;}
     
