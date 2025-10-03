@@ -10642,7 +10642,7 @@ body.boxed-wrapper .main-slider__one-item__shape-1 {
         font-family: var(--ogency-font);
         padding: 10px 10px 10px;
         margin-left: 15px;
-        display: none;
+        /* display: none; */
     }
     
     .hero-video{display: none;}
